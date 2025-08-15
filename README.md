@@ -52,3 +52,4 @@ A small full-stack social media app built with Ruby on Rails, tested with RSpec.
   ✳️ Deployed via Koyeb, PostgreSQL database run via Neon  
 <br><br>
 </details>
+<meta name="google-site-verification" content="3zzuTZkUYWvRu-nMjXH32JCd6m4Cia2jq5_8ef2Q6n4" />
