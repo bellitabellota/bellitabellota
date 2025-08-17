@@ -18,7 +18,7 @@ A single-page React on Rails messenger app tested with RSpec.
   📍 Image upload via Active Storage using Amazon S3  
 
 
- 🔹 Deployed via Koyeb, PostgreSQL database run via Neon, Redis via Upstash
+ 🔹 Deployed via Koyeb (Rails app), Neon (PostgreSQL) and Upstash (Redis)
 <br><br>
 </details>
 
@@ -33,7 +33,7 @@ A full-stack React + Rails game inspired by "Where is Wally" with child-themed p
   ✔️ Backend timer and backend validation of guess/game state to prevent players from cheating<br>
   ✔️ Players can enter their name in the ranking upon completion  
 
- ➕ Deployed via Koyeb, PostgreSQL database run via Neon
+ ➕ Deployed via Koyeb (Rails app) and Neon (PostgreSQL)
 <br><br>
 </details>
 
@@ -49,6 +49,6 @@ A small full-stack social media app built with Ruby on Rails, tested with RSpec.
   ✅ Image upload via Active Storage using Amazon S3  
   ✅ Sending welcome email to new users via SendGrid  
 
-  ✳️ Deployed via Koyeb, PostgreSQL database run via Neon  
+  ✳️ Deployed via Koyeb (Rails app) and Neon (PostgreSQL) 
 <br><br>
 </details>
